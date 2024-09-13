@@ -17,6 +17,7 @@ Front-end:
   <img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333333"/>
   <img src="https://img.shields.io/badge/React-B4CA65?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
 
 
@@ -36,6 +37,7 @@ DevOps:
   <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo-232F3E?style=flat&logo=AWS&logoColor=white"/>
 
 Deploy:
   <img src="https://img.shields.io/badge/Naver Cloud Platform-03c75a?style=flat&logo=naver&logoColor=white"/>
