@@ -37,7 +37,7 @@ DevOps:
   <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argo-232F3E?style=flat&logo=AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"/>
 
 Deploy:
   <img src="https://img.shields.io/badge/Naver Cloud Platform-03c75a?style=flat&logo=naver&logoColor=white"/>
