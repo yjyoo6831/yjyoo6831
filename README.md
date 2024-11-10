@@ -10,7 +10,7 @@
 
 <br>
 
-## :computer: Tech Stack :computer:
+## :computer: Stacks :computer:
 
 Front-end: 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -22,7 +22,7 @@ Front-end:
 
 
 Back-end:
-JavaScript
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5fa04e?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jsp-52b0e7?style=flat&logo=jsp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Servlet-FD5750?style=flat&logo=servlet&logoColor=white"/>
