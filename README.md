@@ -22,7 +22,7 @@ Front-end:
 
 
 Back-end:
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5fa04e?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jsp-52b0e7?style=flat&logo=jsp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Servlet-FD5750?style=flat&logo=servlet&logoColor=white"/>
