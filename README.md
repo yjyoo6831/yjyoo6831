@@ -20,7 +20,6 @@ Front-end:
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
 
 
-
 Back-end:
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5fa04e?style=flat&logo=Node.js&logoColor=white"/>
