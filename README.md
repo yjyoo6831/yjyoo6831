@@ -1,12 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=안녕하세요😃%20-nl-백엔드%20개발자,-nl-유예진입니다.&descAlign=34&descAlignY=45&fontAlign=50&fontAlignY=26&animation=twinkling)
 
 <hr>
-
-<div align=center>
-✨안녕하세요✨ 흥미와 열정을 가지고 웹 백엔드를 공부하고 있는 학생입니다.😊
-
-✏️ 문제 해결을 두려워하지 않고 차근차근 해결해나가는 백엔드 개발자입니다.
-
 <br>
 
 ## :computer: Stacks :computer:
